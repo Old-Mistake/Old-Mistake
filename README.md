@@ -18,7 +18,7 @@
 
 <div>
   <div align="left">
-    <h3>SYSTENS</h3>
+    <h3>SYSTEMS</h3>
     <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white">
   </div>
